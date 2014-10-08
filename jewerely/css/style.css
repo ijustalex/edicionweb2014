@@ -480,7 +480,8 @@ padding-bottom: 100px;
 	font-weight: bold;
 	color: #464646;
 	margin-bottom: 58px;
-	margin-left: 10px;
+	float: left;
+
 }
 
 .blog-description {
