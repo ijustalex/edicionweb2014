@@ -1,0 +1,219 @@
+body{
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+	}
+
+header{
+	background-image: url(../img/myfolio.jpg);
+	height: 729px;
+	background-size: cover;
+	color: white;
+	}
+
+header .wrapheader{
+	width: 1187px;
+	margin: 0 auto;
+	}
+
+header .headermenu{
+	height: 60px;
+	background-color: #02918c;
+	margin: 0;
+	}
+
+header .menu .item {
+	display: inline-table;
+	margin-left: 30px;
+	float: right;
+	margin-top: 20px;
+
+	}
+
+header .menu .item a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 12px;
+	}
+
+header .menu .item a:hover{
+	color: #cfc91d;
+	}
+
+.clearfix{
+	clear:both;
+	}
+
+header h1 {
+	float: left;
+	margin-top: 10px;
+	}
+
+header .brand{
+	font-size: 26px;
+	font-weight: bold;
+	}
+
+header .wrapheader a{
+	color: #cfc91d;
+	}
+
+header .headercontainer{
+	text-align: center;
+	margin-top: 210px;
+}
+
+header .headercontainer .lorem{
+	font-size: 30px;
+	font-weight: 300;
+	margin: 0;
+}
+
+header h2{
+	font-size: 68px;
+	font-weight: bold;
+	margin: -10px;
+	letter-spacing: 30px;
+}
+
+header .headercontainer .lema{
+	font-size: 18px;
+}
+
+header .headercontainer .separador{
+	padding-top: 52px;
+}
+
+button.boton{
+	width: 200px;
+	height: 50px;
+	margin-top: 50px;
+	background-color: #cfc91d;
+	border: none;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+button.boton:hover{
+	background-color: white;
+	color: #cfc91d;
+	border: none;
+}
+
+.aboutme h3{
+	font-size: 46px;
+	font-weight: bold;
+	color: #01918c;
+	letter-spacing: -2px;
+	text-align: center;
+	margin-top: 95px;
+	margin-bottom: 35px;
+}
+
+.aboutme .separador{
+	text-align: center;
+}
+
+.aboutme .texto{
+	width: 875px;
+	margin-left: 250px;
+	margin-top: 40px;
+	line-height: 40px;
+}
+
+.aboutme .texto p{
+	margin: 0 auto;
+	font-size: 16px;
+	color: #7e8287;
+	text-align: center;
+}
+
+.aboutme .texto span{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.aboutme .partes{
+	margin-top: 32px;
+	margin-left: 100px;
+}
+
+.aboutme .container{
+	width: 200px;
+	float: left;
+	text-align: center;
+	color: #7e8287;
+	margin-right: 45px;
+	margin-top: 30px;
+}
+
+.aboutme .raya{
+	width: 3px;
+	float: left;
+	margin-right: 45px;
+}
+
+.aboutme .container p{
+	line-height: 25px;
+	font-size: 11px;
+
+}
+
+.aboutme .container h4{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.lap{
+	background-color: #f0f0e8;
+	margin-top: 100px;
+	padding-bottom: 100px;
+	height: 700px;
+	}
+
+.lap h3{
+	font-size: 46px;
+	font-weight: bold;
+	color: #02918c;
+	margin-top: 75px;
+}
+
+.lap .izquierdo{
+	float: left;
+	width: 45%;
+	margin: 0;
+	padding-left: 5%;
+}
+
+.lap p{
+	font-size: 11px;
+	line-height: 20px;
+	color: #7e8287;
+}
+
+.lap h4{
+	font-size: 16px;
+	font-weight: bold;
+	color: #7e8287;
+}
+
+.lap .cuadro{
+	display: inline-table;
+	margin-right: 80px;
+	margin-bottom: 50px;
+}
+
+.lap .cuadros{
+	margin-top: 60px;
+}
+
+.lap .separador{
+	margin-bottom: 30px;
+}
+
+.lap .compu img{
+	width: 50%;
+	height:800px;
+	float: right;
+	margin: 0;
+}
